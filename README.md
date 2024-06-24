@@ -1,2 +1,2 @@
 # CSM
-computational structural mechanics in Python
+computational structural mechanics in python
